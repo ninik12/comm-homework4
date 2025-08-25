@@ -1,0 +1,260 @@
+.main {
+    width: 1440px;
+    height: 900px;
+    background-color: #101010;
+    border-radius: 30px;
+    padding: 20px 20px 20px 80px;
+}
+
+.main-container {
+    width: 1340px;
+    height: 860px;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-space-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.first-cont {
+    width: 197px;
+    height: 651px;
+    padding-top: 17px;
+}
+
+.image-cont {
+    background-image: url(../images/28690aa7de65de332ec15bf450eda8bbd5c75b19.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: 40% 17%;
+    width: 72px;
+    height: 72px;
+    border-radius: 13px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.notification {
+    width: 29px;
+    height: 29px;
+    border-radius: 50%;
+    background-color: #DC3434;
+    color: #fff;
+    position: absolute;
+    top: -20%;
+    left: 80%;
+    font-size: 13px;
+
+}
+
+.frst-cont-title {
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.mail {
+    color: #fff;
+    font-size: 17px;
+}
+
+.frst-ltt-cont {}
+
+.box-dashboard {
+    width: 142px;
+    margin-top: 117px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.dashboard {
+    color: #FFFFFF;
+    font-size: 25px;
+
+}
+
+/* ?second section */
+
+.second-conteiner {
+    width: 1060px;
+    height: 860px;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+}
+.scd-cont1 {
+    width: 710px;
+    height: 860px;
+
+}
+.scd-main-cont {
+    width: 510px;
+    height: 741px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.Title{
+    width: 195px;
+    height: 84px;
+    display: inline-block;
+
+}
+.expenses{
+    color: #262A41;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.date{
+    color: #101010;
+    font-size: 16px;
+}
+.titl-parent{
+    width: 510px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 46px;
+
+}
+.group{
+    width: 122.96px;
+    height: 31.2px;
+    display: flex;
+    align-items: center;
+}
+.img-group{
+    display: inline-block;
+}
+.plus{
+    display: inline-block;
+    width: 23.96px;
+    height: 24px;
+    border: 2px solid #D2DCE8;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #D2DCE8;
+}
+.main-date{
+    width: 500px;
+    height: 38.5px;
+    border-bottom: 1px solid #DEDEDE;
+    margin: 47px 0 25.5px 0;
+
+}
+.dotts{
+    width: 25px;
+    height: 5px;
+}
+.today {
+    color: #262A41;
+    font-size: 18px;
+}
+
+.columns{
+    width: 500px;
+    height: 49px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+.grocery{
+    width: 265px;
+    height: 49px;
+    display: flex;    
+}
+.icon-common{
+    width: 48px;
+    height: 48px;
+    background-color: #32A7E2;
+    border-radius: 50%;
+    margin-right: 17px;
+    
+}
+
+.title-grocery{
+    color: #273240;
+    line-height: 100%;
+}
+.p-grocery{
+   margin-top: 10px;
+}
+.purple{
+    background-color: purple;
+}
+.orange{
+    background-color: #FF8700;
+}
+.red{
+    background-color: #DC3434;
+}
+.green{
+    background-color: #4BA83D;
+}
+.scd-cont2 {
+    width: 350px;
+    height: 860px;
+    background-color: #F9FAFC;
+    padding:76px 50px 60px;
+}
+.stats-2{
+    width: 250px;
+    height: 365px;
+    margin: 0 auto;
+}
+.last-cont{
+    width: 250px;
+    height: 292px;
+    margin-top: 67px;
+    padding-top: 34px;
+}
+.last-ltt-cont{
+    width: 250px;
+    height: 258px;
+    position: relative;
+    background-color: #EDF0F6;
+}
+.save{
+    color: #273240;
+    position: absolute;
+    top: 77px;
+    left: 25px;
+}
+.last-p{
+    color: #404852;
+    font-size: 12px;
+    position: absolute;
+    top: 105px;
+    left: 25px;
+    width: 200px;
+    height: 63px;
+    line-height: 21px;
+}
+.btn{
+    width: 200px;
+    height: 45px;
+    background-color: #101010;
+    font-size: 13px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 188px;
+    left: 25px;
+}
+.image-boxes{
+    position: absolute;
+    top: -15px;
+    left: 25px;
+}
+.image-plant{
+    position: absolute;
+    top: -34px;
+    left: 172px;
+}
