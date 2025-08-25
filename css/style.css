@@ -204,6 +204,7 @@
     height: 860px;
     background-color: #F9FAFC;
     padding:76px 50px 60px;
+    border-radius: 30px;
 }
 .stats-2{
     width: 250px;
@@ -221,6 +222,7 @@
     height: 258px;
     position: relative;
     background-color: #EDF0F6;
+    border-radius: 15px;
 }
 .save{
     color: #273240;
